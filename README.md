@@ -1,4 +1,4 @@
-# Eslint and Prettier config file template of TypeScript CRA project
+# `ESLint`, `Prettier` and `TypeScript` config file templates for TypeScript CRA project
 
 ## npm dependencies
 
